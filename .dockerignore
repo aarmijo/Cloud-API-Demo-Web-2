@@ -1,0 +1,9 @@
+node_modules
+dist
+.git
+.gitignore
+.dockerignore
+.env
+docker-compose.yml
+.env.secret
+.env.secret.template
